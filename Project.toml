@@ -1,0 +1,8 @@
+name = "Jake"
+uuid = "66fe042c-5efd-4c25-8498-063f6dd86d16"
+authors = ["dbeeson <dbeeson@mit.edu>"]
+version = "0.1.0"
+
+[deps]
+Configurations = "5218b696-f38b-4ac9-8b61-a12ec717816d"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
